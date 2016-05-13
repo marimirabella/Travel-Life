@@ -1,0 +1,59 @@
+/* CSS declarations go here */
+.thumbnail {
+    height:550px;
+    word-wrap:break-word;
+}
+
+.thumbnail-img{
+	max-height: 350px;
+}
+
+body{
+	padding-top: 60px;
+}
+
+.navbar-default{
+	background: #90dff4;
+}
+
+.single-img{
+	max-width:100%;
+}
+
+.description{
+	margin-top: 20px;
+	font-size: 16px;
+}
+
+.jumbotron{
+	background: url(travelling.jpg) no-repeat;
+	background-size: 100% 110%;
+	height: 400px;
+	padding-top: 25px;
+}
+
+h1.heading{
+	color: #0b50e5;
+}
+
+h3.text-create{
+	color: #0e5db2;
+}
+
+#login-buttons{
+	padding-right: 25px;
+}
+
+#login-buttons a, .accounts-dialog a{
+	color: #777;
+	font-size: 15px;
+}
+
+.bg-post{
+	background: #f5f5f5;
+}
+
+.modal-open{
+   overflow-y: scroll;
+   padding-right: 0 !important;
+}
